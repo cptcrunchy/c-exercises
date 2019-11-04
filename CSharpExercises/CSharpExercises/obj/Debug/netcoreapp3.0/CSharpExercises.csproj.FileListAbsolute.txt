@@ -1,0 +1,11 @@
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.exe
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.deps.json
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.runtimeconfig.json
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.runtimeconfig.dev.json
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.dll
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\bin\Debug\netcoreapp3.0\CSharpExercises.pdb
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.csprojAssemblyReference.cache
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.AssemblyInfoInputs.cache
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.AssemblyInfo.cs
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.dll
+W:\Personal\cSharp-Exercises\CSharpExercises\CSharpExercises\obj\Debug\netcoreapp3.0\CSharpExercises.pdb

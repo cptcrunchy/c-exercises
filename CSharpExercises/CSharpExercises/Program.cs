@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CSharpExercises
 {
-	class Program
+	public class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			var listOfNames = new List<string> { "Heather", "Jason", "Zack", "Mahathi" };
+
+			foreach (string name in listOfNames)
+			{
+				Console.WriteLine(@"Employee Name: {0}", name.ToUpper());
+			}
 		}
 	}
 }
